@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🔭 I’m currently studying Computer Science at UIT (VNU-HCM, University of Information Technology)  
-👯 I’m open to collaborate on projects related to Artificial Intelligence and Data Science  
+👯 I’m open to collaborating on projects related to Artificial Intelligence and Data Science  
 🤝 I’m looking for support and mentorship in advancing skills as an AI Engineer and Software Engineer  
 🌱 I’m currently learning Machine Learning (ML), Deep Learning (DL), and advanced AI techniques  
 💬 Ask me about ML, DL, AI engineering, and software engineering topics  
